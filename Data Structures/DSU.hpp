@@ -1,4 +1,5 @@
 class DSU {
+    typedef long long int lli;
 private :
     vector<lli> set;
 public :
